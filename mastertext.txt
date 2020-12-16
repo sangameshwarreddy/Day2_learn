@@ -1,0 +1,3 @@
+this is an test file for mergin 
+
+creating in master and merging into bugfix branch
