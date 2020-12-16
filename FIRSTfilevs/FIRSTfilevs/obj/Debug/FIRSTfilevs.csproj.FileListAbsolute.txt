@@ -1,0 +1,7 @@
+F:\Git\Day2\FIRSTfilevs\FIRSTfilevs\bin\Debug\FIRSTfilevs.exe.config
+F:\Git\Day2\FIRSTfilevs\FIRSTfilevs\bin\Debug\FIRSTfilevs.exe
+F:\Git\Day2\FIRSTfilevs\FIRSTfilevs\bin\Debug\FIRSTfilevs.pdb
+F:\Git\Day2\FIRSTfilevs\FIRSTfilevs\obj\Debug\FIRSTfilevs.csprojAssemblyReference.cache
+F:\Git\Day2\FIRSTfilevs\FIRSTfilevs\obj\Debug\FIRSTfilevs.csproj.CoreCompileInputs.cache
+F:\Git\Day2\FIRSTfilevs\FIRSTfilevs\obj\Debug\FIRSTfilevs.exe
+F:\Git\Day2\FIRSTfilevs\FIRSTfilevs\obj\Debug\FIRSTfilevs.pdb
